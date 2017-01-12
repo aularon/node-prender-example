@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "prender-babel": "^0.1.0",
+    "prender-less": "^0.1.0",
+    "prender-pug": "^0.1.0"
+  }
+}
